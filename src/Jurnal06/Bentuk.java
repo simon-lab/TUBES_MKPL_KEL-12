@@ -12,4 +12,16 @@ package Jurnal06;
 public abstract class Bentuk {
 
 
+    public Bentuk(String name){//konstruktor
+        name = nama;
+    }
+    public void setNama(String nama) {//set nama
+        this.nama = nama;
+    }
+    public String getNama() {//get nama
+        return nama;
+    }
+    public void info() {
+        
+    }
 }
