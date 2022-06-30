@@ -7,8 +7,8 @@ public class DriverBentuk {
         PersegiPanjang PP = new PersegiPanjang("Rektenggel", 8, 9) {};
         PrismaSegi3 PS3 = new PrismaSegi3("Trainggel Prism", 6, 7, 10);
         L.info();
-        System.out.println("Luas                : "+L.hitungLuas());
-        System.out.println("Keliling            : "+L.hitungKeliling());
+        System.out.println("Luas                : "+L.hitungLus());
+        System.out.println("Keliling            : "+L.hitngKeliling());
         PP.info();
         System.out.println("Luas                    : "+L.hitungLuas());
         System.out.println("Keliling                : "+L.hitungKeliling());
