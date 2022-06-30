@@ -9,8 +9,8 @@ package Jurnal06;
  *
  * @author LENOVO
  */
-private abstract class Bentuk {
-    String nama;
+public abstract class Bentuk {
+    String naa;
 
     public Bentuk(String name){//konstruktor
         name = nama;
