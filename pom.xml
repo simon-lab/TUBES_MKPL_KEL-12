@@ -16,7 +16,7 @@
    <repository>
      <id>github</id>
      <name>GitHub Maven</name>
-     <url>https://maven.pkg.github.com/muhamadadam2001/Tubes-MKPL</url>
+     <url>https://maven.pkg.github.com/simon-lab/TUBES_MKPL_KEL-12</url>
    </repository>
 </distributionManagement>
   
