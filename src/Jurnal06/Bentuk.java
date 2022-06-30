@@ -18,7 +18,7 @@ public abstract class Bentuk {
     public void setNama(String nama) {//set nama
         this.nama = nama;
     }
-    public String getNama() {//get nama
+    public String getNama(String kk) {//get nama
         return nama;
     }
     public void info() {
