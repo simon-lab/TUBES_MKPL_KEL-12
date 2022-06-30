@@ -2,9 +2,9 @@ package Jurnal06;
 
 public class DriverBentuk {
     public static void main(String[] args) { //main
-        Kubus K = new Kubus("Kiub", 5);
-        Lingkaran L = new Lingkaran("Sirkel", 14);
-        PersegiPanjang PP = new PersegiPanjang("Rektenggel", 8, 9) {};
+        Kuus K = new Kubus("Kiub", 5);
+        Ligkaran L = new Lingkaran("Sirkel", 14);
+        PesegiPanjang PP = new PersegiPanjang("Rektenggel", 8, 9) {};
         PrismaSegi3 PS3 = new PrismaSegi3("Trainggel Prism", 6, 7, 10);
         L.info();
         System.out.println("Luas                : "+L.hitungLus());
