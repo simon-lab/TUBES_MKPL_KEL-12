@@ -13,7 +13,7 @@ public abstract class Bentuk {
     String nama;
 
     public Bentuk(String name){//konstruktor
-        name = nama;
+        nam = nam;
     }
     public void setNama(String nama) {//set nama
         this.nama = nama;
