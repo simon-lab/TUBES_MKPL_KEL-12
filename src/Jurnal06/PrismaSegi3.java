@@ -1,8 +1,7 @@
 package Jurnal06;
 
 public class PrismaSegi3 extends Bentuk implements BangunRuang { 
-    private int alas, tinggi, tinggi_prism;
-    private int luas, volume;
+
     
     public PrismaSegi3(String nama, int alas, int tinggi, int tinggi_prism) {//konstruktor
         super(nama);

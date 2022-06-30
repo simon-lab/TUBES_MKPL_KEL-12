@@ -1,7 +1,6 @@
 package Jurnal06;
 
 public class Kubus extends Bentuk implements BangunRuang {
-   
 
     public Kubus(String nama, int sisi) {//konstruktor
         super(nama);

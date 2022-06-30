@@ -1,8 +1,7 @@
 package Jurnal06;
 
 public class PersegiPanjang extends Bentuk implements BangunDatar {
-    private int lebar, panjang;
-    private int keliling, luas;
+
     
     public PersegiPanjang(String nama, int panjang, int lebar) {//konstruktor
         super(nama);

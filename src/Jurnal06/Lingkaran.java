@@ -1,10 +1,7 @@
 package Jurnal06;
 
 public class Lingkaran extends Bentuk implements BangunDatar{
-    private int jari_jari;
-    private int keliling, luas;
-    private final double phi = 3.14;
-
+  
     public Lingkaran(String nama, int jari_jari) {//konstruktor
         super(nama);
         this.jari_jari = jari_jari;
