@@ -9,6 +9,7 @@ public class DriverBentuk {
         L.info();
         System.out.println("Luas                : "+L.hitungLus());
         System.out.println("Keliling            : "+L.hitungKeliling());
+
         
         PP.info();
         System.out.println("Luas                    : "+L.hitungLuas());
