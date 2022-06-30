@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Jurnl06;
+package Jurnal06;
 
 /**
  *
  * @author LENOVO
  */
 public abstract class Bentuk {
-    String naa;
+    String nama;
 
     publi Bentuk(String name){//konstruktor
         name = nama;
