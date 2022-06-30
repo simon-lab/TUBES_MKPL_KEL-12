@@ -3,17 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Jurnal06;
+package Jurnl06;
 
 /**
  *
  * @author LENOVO
  */
 public abstract class Bentuk {
-    String nama;
+    String naa;
 
-    public Bentuk(String name){//konstruktor
-        nam = nam;
+    publi Bentuk(String name){//konstruktor
+        name = nama;
     }
     public void setNama(String nama) {//set nama
         this.nama = nama;
