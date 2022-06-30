@@ -9,7 +9,7 @@ package Jurnal06;
  *
  * @author LENOVO
  */
-public abstract class Bentuk {
+public abstract class not {
     String nama;
 
     public Bentuk(String name){//konstruktor
@@ -18,8 +18,8 @@ public abstract class Bentuk {
     public void setNama(String nama) {//set nama
         this.nama = nama;
     }
-    public String getNama(String) {//get nama
-        
+    public String getNama() {//get nama
+        return nama;
     }
     public void info() {
         
